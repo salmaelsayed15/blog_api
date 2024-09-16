@@ -17,7 +17,7 @@ end
 gem "active_model_serializers"
 
 # Docker dependencies (if needed)
-gem "redis", "~> 4.0"
+gem "redis", "~> 5.3"
 
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
